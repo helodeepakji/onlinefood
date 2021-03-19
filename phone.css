@@ -34,12 +34,12 @@
         margin-bottom: 20px;
         }
         
-        /* Clients section */
-        #clients{
+        /* Worker section */
+        #Worker{
         flex-wrap: wrap;
         }
         
-        #clients img{
+        #Worker img{
         width: 66px;
         padding: 6px;
         height: auto;
