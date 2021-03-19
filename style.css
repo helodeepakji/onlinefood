@@ -127,12 +127,12 @@
     
     } 
     
-    /* Clients Section */
-    #client-section{ 
+    /* Worker Section */
+    #Worker-section{ 
     position: relative;
     }
     
-    #client-section::before{
+    #Worker-section::before{
     content: "";
     position: absolute;
     background: url('../bg.jpg');
@@ -142,17 +142,17 @@
     opacity: 0.3;
     }
     
-    #clients{
+    #Worker{
     display: flex;
     justify-content: center;
     align-items: center;
     }
     
-    .client-item{
+    .Worker-item{
     padding: 34px;
     }
     
-    #clients img{
+    #Worker img{
     height: 124px;
     }
     
